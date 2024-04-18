@@ -34,5 +34,5 @@ $$
 and the acoustic perturbation equation with the source terms in is
 
 $$
-\left ( 2 \sqrt{1-x^2} \; \psi' -2 \Omega x \psi - \frac{1-\sqrt{1-x^2}}{x} \psi \right )' - \left ( 1+\sqrt{1-x^2} \right ) \Omega^2 \psi = 0.
+\left ( 2 \sqrt{1-x^2} \psi' -2 \Omega x \psi - \frac{1-\sqrt{1-x^2}}{x} \psi \right )' - \left ( 1+\sqrt{1-x^2} \right ) \Omega^2 \psi = 0.
 $$
