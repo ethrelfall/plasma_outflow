@@ -15,7 +15,7 @@ $$
 ds^2 = -2 \sqrt{1-x^2} - 2 x dt dx +(1+\sqrt{1-x^2}) dx^2
 $$
 
-noting that one nice algebraic property is that the determinant is just $g=-(1+\sqrt{1-x^2})$.
+noting that one nice algebraic property is that the determinant is just $g=-(1+\sqrt{1-x^2})^2$.
 
 A more Schwarzschild-like coordinate chart can be derived by removing the off-diagonal metric components - change the time coordinate such that $dt = dh - \alpha(x) dx$ where $\alpha \equiv \frac{x}{2 \sqrt{1-x^2}}$, giving the line element
 
