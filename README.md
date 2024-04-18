@@ -24,3 +24,15 @@ ds^2 = -2 \sqrt{1-x^2} dh^2 + \frac{(1+\sqrt{1-x^2})^2}{2 \sqrt{1-x^2}} dx^2.
 $$
 
 Note that if the source terms are reinstated then the equation is very very similar to the KG equation obtained from the metric above ... algebraic mistakes?
+
+For the record, that KG equation is
+
+$$
+\left ( \frac{2 \sqrt{1-x^2} \psi'}{1+\sqrt{1-x^2}} \right )' - \Omega \left ( \frac{x \psi}{1+\sqrt{1-x^2}} \right )' - \frac{\Omega x \psi'}{1+\sqrt{1-x^2}} - \Omega^2 \Psi =0.
+$$
+
+and the acoustic perturbation equation with the source terms in is
+
+$$
+\left ( 2 \sqrt{1-x^2} \; \psi' -2 \Omega x \psi - \frac{1-\sqrt{1-x^2}}{x} \psi \right )' - \left ( 1+\sqrt{1-x^2} \right ) \Omega^2 \psi = 0.
+$$
