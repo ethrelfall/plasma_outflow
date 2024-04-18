@@ -12,7 +12,7 @@ $$
 This is related to the zero-rest-mass Klein-Gordon equation with the metric
 
 $$
-ds^2 = -2 \sqrt{1-x^2} - 2 x dt dx +(1+\sqrt{1-x^2}) dx^2
+ds^2 = -2 \sqrt{1-x^2} dt^2 - 2 x dt dx +(1+\sqrt{1-x^2}) dx^2
 $$
 
 noting that one nice algebraic property is that the determinant is just $g=-(1+\sqrt{1-x^2})^2$.
